@@ -1,2 +1,6 @@
 pettingzoo
 pygame
+rlcard
+Shimmy
+open_spiel
+chess
